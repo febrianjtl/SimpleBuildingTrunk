@@ -46,11 +46,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   size: {x: 1, y: 1}
-  buildTime: 5
-  buildingId: Building_01
-  buildingIdsRequirement: []
+  buildTime: 300
   maxItemCount: 0
   animator: {fileID: 5825840287851564528}
+  buildingId: Building_01
+  buildingIdsRequirement: []
+  buildingState: 0
 --- !u!95 &5825840287851564528
 Animator:
   serializedVersion: 3
